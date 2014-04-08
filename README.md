@@ -1,3 +1,0 @@
-Data-Structruce
-===============
-lab1
